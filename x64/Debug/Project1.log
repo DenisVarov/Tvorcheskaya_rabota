@@ -1,9 +1,0 @@
-﻿  Source.cpp
-c:\users\denis\desktop\project1\source.cpp(33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-c:\users\denis\desktop\project1\source.cpp(41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-c:\users\denis\desktop\project1\source.cpp(124): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-c:\users\denis\desktop\project1\source.cpp(211): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "RenderWindow"
